@@ -36,7 +36,7 @@ This exercise will help you get some basic muscle memory and practice rendering 
 ## Getting Started
 
 #### Clone down this repo
-`git clone https://github.com/turingschool-examples/react-starter-kit/`
+`git clone https://github.com/turingschool-examples/react-static-comp/`
 
 #### Install the dependencies:
 
